@@ -4,6 +4,8 @@ This program compresses an input using runtime compression. Compressed data will
 
 ## Usage
 
+Download or clone the code before continuing. Then run the following commands in the folder the code is in.
+
 To compile the program run:
 
     gcc my-zip.c -o my-zip
